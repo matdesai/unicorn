@@ -28,5 +28,10 @@ public class c1 {
 		
 		System.out.println("my name akashy");
 	}
+	
+	public void m4() {
+		
+		System.out.println("i am going to kolhapur");
+	}
 
 }
